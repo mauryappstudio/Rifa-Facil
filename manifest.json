@@ -1,0 +1,24 @@
+{
+  "name": "RifaFácil",
+  "short_name": "RifaFácil",
+  "description": "Gestiona y participa en rifas de forma fácil y segura",
+  "start_url": "./rifa-finalv3.html",
+  "display": "standalone",
+  "background_color": "#fff8de",
+  "theme_color": "#FF6F00",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon-rifa.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-rifa.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
