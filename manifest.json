@@ -2,7 +2,7 @@
   "name": "RifaFácil",
   "short_name": "RifaFácil",
   "description": "Gestiona y participa en rifas de forma fácil y segura",
-  "start_url": "./rifa-finalv3.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#fff8de",
   "theme_color": "#FF6F00",
